@@ -35,7 +35,7 @@ int main()
             }
             case 4:
             {
-                peek;
+                peek();
                 break;
             }
             case 5:
